@@ -11,7 +11,7 @@ npm install
 ### Executando o servidor
 
 ```
-npm start
+npm start ou nodemon index
 ```
 
 ## Rotas
